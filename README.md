@@ -8,3 +8,4 @@ This package provide the complete list of all countries, states and cities
 
 `php artisan vendor:publish --provider="Satis\CountriesPackage\CountriesPackageServiceProvider" --tag="config"
 `
+
