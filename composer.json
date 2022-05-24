@@ -1,7 +1,7 @@
 {
     "name": "satis2020/countries-package",
     "description": "satis2020/countries-package ",
-    "license": "DMD",
+    "license": "MIT",
     "version" : "1.0.0",
     "authors": [
         {
